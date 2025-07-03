@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a507053a34af6a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d70ad9e5ef9653a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6b442a469137d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "글자 없애기 게임.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "글자 없애기 게임"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "078f32f22fac0e05",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c91df6efd8265de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca0e6861ad5d265",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "684144fdaab79e1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "2012c4a36252ee9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3aee1f130105ba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "28e8aa542a62839d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6823b2652f78510",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "글자 없애기 게임.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "글자 없애기 게임 의 백링크"
+            }
+          },
+          {
+            "id": "7e71abaa9d1af5d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "글자 없애기 게임.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "글자 없애기 게임 의 나가는 링크"
+            }
+          },
+          {
+            "id": "addd19a37f1ade0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "400553a0c52ef909",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "글자 없애기 게임.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "글자 없애기 게임 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e6b442a469137d11",
+  "lastOpenFiles": [
+    "high_scores.json",
+    "english_words.txt",
+    "korean_words.txt",
+    "word_erasing_game.py",
+    "game_image.jpg",
+    "README.md",
+    "글자 없애기 게임.md",
+    "이거 보고 커서에디터 삭제했다 (Gemini CLI) [f-Izv0ZIeQs].f400.mp4",
+    "이거 보고 커서에디터 삭제했다 (Gemini CLI) [f-Izv0ZIeQs].f140-1.m4a",
+    "귀여운 오버플로우 버그는 왜 일어날까 [hIf-OqzULmI].f400.mp4",
+    "귀여운 오버플로우 버그는 왜 일어날까 [hIf-OqzULmI].f140.m4a"
+  ]
+}

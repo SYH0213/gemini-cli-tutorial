@@ -1,0 +1,12 @@
+{
+    "korean": {
+        "easy": 1,
+        "normal": 0,
+        "hard": 2
+    },
+    "english": {
+        "easy": 0,
+        "normal": 0,
+        "hard": 0
+    }
+}
